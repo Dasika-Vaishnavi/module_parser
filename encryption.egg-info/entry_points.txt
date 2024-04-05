@@ -1,0 +1,3 @@
+[console_scripts]
+aes_encryption = encryption:aes_cli
+caesar_encryption = encryption:caesar_cli

@@ -1,0 +1,4 @@
+Metadata-Version: 2.1
+Name: encryption
+Version: 0.1
+Requires-Dist: cryptography
