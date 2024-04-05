@@ -124,3 +124,7 @@ The resulting static library (libexample.a or example.lib) can be linked with ot
 
 python setup.py install
 python setup.py build
+
+python.h header file --> python where
+import sysconfig
+print(sysconfig.get_path("include"))
